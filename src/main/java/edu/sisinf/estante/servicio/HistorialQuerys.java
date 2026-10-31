@@ -1,6 +1,6 @@
-package edu.sisinf.estante.servicio;
+package edu.sisinf.chuspadb.servicio;
 
-import edu.sisinf.estante.modelo.EntradaHistorial;
+import edu.sisinf.chuspadb.modelo.EntradaHistorial;
 
 import java.util.ArrayDeque;
 import java.util.ArrayList;
